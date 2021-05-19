@@ -17,14 +17,14 @@ Date taken.
 
 Notes !important:
 
-Use the Flickr documentation.
-No need for api key
-Take into consideration the UI design and the usability of the page.
-Using no js/css framework. 
-Pay attention to your coding style and code-design/Patterns.
-Responsiveness (like mobile appearance) - (Good to have)
-Think of scalability/ how to make your code useful for other people (like open source code) (Bonus)
-Let me know how much time it took ya
-Try to surprise me - like UI/features/methodologic (Bonus) 
-Don't Build a server solution 
-Don't use XML for crying out loud
+* Use the Flickr documentation.
+* No need for api key
+* Take into consideration the UI design and the usability of the page.
+* Using no js/css framework. 
+* Pay attention to your coding style and code-design/Patterns.
+* Responsiveness (like mobile appearance) - (Good to have)
+* Think of scalability/ how to make your code useful for other people (like open source code) (Bonus)
+* Let me know how much time it took ya
+* Try to surprise me - like UI/features/methodologic (Bonus) 
+* Don't Build a server solution 
+* Don't use XML for crying out loud
