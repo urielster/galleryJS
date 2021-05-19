@@ -1,5 +1,4 @@
 # galleryJS
-Just playing with vanilla JS
 
 www.flickr.com is a known photo sharing site. flickr provides a well-documented API for exploring photos and other tasks.
 Your goal in this exercise is to create an HTML/javascript application that will use this public feed:
